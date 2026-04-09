@@ -192,6 +192,6 @@ First project using:
 
 ---
 
-# 👩‍💻 Project Name
+# 👩‍💻  Author
 
-**PATTYFATTY** — Minimalist Food & Health Companion
+Pragati Borde
