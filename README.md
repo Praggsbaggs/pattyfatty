@@ -1,181 +1,197 @@
-PATTYFATTY — Food & Health Check-In App
+# 🥗 PATTYFATTY — Minimalist Food & Health Check-In App
 
-Minimalist food habit and digestion awareness app built during AMD Slingshot Promptathon (Hack2Skill) at MIT ADT — 7 April
+**PATTYFATTY** is a minimalist food and digestive health app designed to help users eat on time, reduce binge eating, and understand body signals through a simple daily check-in.
 
-🥗 Overview
+Built during **AMD Slingshot Promptathon** by **Hack2Skill** at **MIT ADT University** on **7th April**.
 
-PATTYFATTY is a minimalist food and health check-in app that helps users:
+---
 
-eat on time
-reduce binge eating
-understand body signals
-improve digestion
-make better food choices
-get doctor suggestions when needed
+# 🎯 Problem
 
-The app focuses on one simple daily interaction instead of overwhelming users with multiple features.
-
-🎯 Problem
-
-Many people:
-
-skip meals
-binge eat
-eat junk frequently
-ignore digestion issues
-don't understand body signals
-don't know what to eat
+Many people today:
+- Skip meals
+- Binge eat frequently
+- Eat junk food without checking ingredients
+- Ignore digestion issues
+- Don't understand body signals
+- Eat late at night
+- Have irregular food habits
 
 This leads to:
+- Bloating  
+- Constipation  
+- Low energy  
+- Poor gut health  
+- Unhealthy eating patterns  
 
-bloating
-constipation
-low energy
-unhealthy eating habits
-poor gut health
+PATTYFATTY solves this with **quick body-based food guidance**.
 
-PATTYFATTY solves this with quick body-based food guidance.
+---
 
-✨ Core Idea
+# ✨ Core Concept
 
-When user opens app, they see:
+The app focuses on **one simple daily interaction**.
 
-"How is your body right now?"
+When user opens the app:
+
+> "How is your body right now?"
 
 User selects:
+- I skipped a meal  
+- I'm eating late  
+- craving junk  
+- ate too much  
+- bloated  
+- constipated  
+- low energy  
+- feeling fine  
 
-I skipped a meal
-I'm eating late
-craving junk
-ate too much
-bloated
-constipated
-low energy
-feeling fine
+App instantly provides:
+- What to eat  
+- What to avoid  
+- Small health tip  
+- Eat-on-time reminder  
 
-App instantly gives:
+---
 
-what to eat
-what to avoid
-small tip
-eat-on-time reminder
-🧠 Features (Minimalist)
-1. Daily Food Check-In
+# 🧠 Features
 
-Single tap interaction
-Body-based food guidance
-Eat-on-time reminders
-Digestive awareness
+## 1. Daily Food Check-In
+- One tap interaction  
+- Body-based suggestions  
+- Eat on time reminders  
+- Digestive awareness  
+- Minimal UI  
 
-2. Binge Eating Awareness
+---
 
+## 2. Binge Eating Awareness
 Detects:
-
-craving junk
-eating late
-skipping meals
+- Skipped meals  
+- Late eating  
+- Junk cravings  
+- Overeating  
 
 Suggests:
+- Healthy alternatives  
+- Light snacks  
+- Hydration reminders  
 
-lighter alternatives
-hydration
-balanced snacks
-3. Ingredient Awareness (Scan)
+---
 
-User scans packaged food
+## 3. Food Ingredient Awareness (Scan)
+User scans packaged food.
+
 App shows:
+- High sugar warning  
+- High sodium warning  
+- Processed food alert  
+- Eat occasionally suggestion  
 
-high sugar
-high sodium
-processed warning
-eat occasionally
-4. Digestive Health Support
+---
 
+## 4. Digestive Health Support
 Handles:
+- Bloating  
+- Constipation  
+- Diarrhea  
+- Low energy  
 
-bloating
-constipation
-diarrhea
-low energy
+App provides:
+- Food suggestions  
+- Hydration tips  
+- Light meal guidance  
 
-Gives:
+---
 
-food suggestions
-hydration tips
-meal timing advice
-5. Doctor Suggestion (When Needed)
-
+## 5. Doctor Suggestion
 If repeated digestive issues:
-App suggests visiting doctor
 
-Opens:
-Google Maps search for nearby:
+App suggests:
+"Consider visiting a doctor"
 
-gastroenterologist
-dietitian
-physician
-🎨 Design Philosophy
-minimalist UI
-one-screen interaction
-no clutter
-aesthetic layout
-inclusive for all users
-daily usable
-realistic functionality
-🧩 App Flow
+Opens Google Maps for:
+- Gastroenterologist  
+- Dietitian  
+- General Physician  
 
-Open App
-↓
-Select body state
-↓
-Get food suggestion
-↓
-Optional: scan food
-↓
-Optional: find doctor
+---
 
-🛠 Tech Stack
+# 🎨 Design Philosophy
+
+- Minimalist UI  
+- Single screen experience  
+- No clutter  
+- Clean aesthetic  
+- Inclusive for all users  
+- Daily usable  
+- Realistic functionality  
+
+---
+
+# 📱 App Flow
+
+Open App  
+↓  
+Select body state  
+↓  
+Get food suggestion  
+↓  
+Optional: scan food  
+↓  
+Optional: find doctor  
+
+---
+
+# 🛠 Tech Stack
 
 Frontend:
+- HTML  
+- CSS  
+- JavaScript  
+- React (optional)
 
-HTML / CSS / JavaScript
-or
-React (optional)
-
-Google Tech (optional):
-
-Google ML Kit (food scanning)
-Google Gemini (response generation)
-Google Maps (doctor search)
-Firebase (logs)
+Google Technologies:
+- Google ML Kit (Food Scan)  
+- Google Gemini API (Smart responses)  
+- Google Maps (Doctor search)  
+- Firebase (User logs)  
 
 Fallback:
-Static logic if APIs unavailable
+- Static logic if APIs unavailable
 
-🏆 Built For
+---
 
-AMD Slingshot Promptathon
-Hack2Skill
-MIT ADT University
-7 April
+# 🏆 Built For
+
+AMD Slingshot Promptathon  
+Hack2Skill  
+MIT ADT University  
+7 April  
 
 First project using:
+- Prompt engineering  
+- Vibe coding  
+- AI-assisted development  
 
-prompt engineering
-vibe coding
-AI assisted development
-🚀 Future Improvements
-personalized meal reminders
-hydration tracker
-gut health trends
-AI food recommendations
-doctor booking integration
-📌 Tagline
+---
 
-Your figure matters. Your gut matters more.
+# 🚀 Future Improvements
 
-👩‍💻 Author
+- Personalized reminders  
+- Hydration tracking  
+- Gut health trends  
+- AI-based suggestions  
+- Doctor booking integration  
 
-Pragati Borde
-Built as part of Promptathon project
-PATTYFATTY — minimalist food & health companion
+---
+
+# 📌 Tagline
+
+**Your figure matters. Your gut matters more.**
+
+---
+
+# 👩‍💻 Project Name
+
+**PATTYFATTY** — Minimalist Food & Health Companion
